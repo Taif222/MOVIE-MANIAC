@@ -1,5 +1,5 @@
 
-# Novie Maniac
+# Movie Maniac
 
 Novie Maniac is a React-based movie discovery application that allows users to browse, filter, and sort movies using data from the TMDB (The Movie Database) API. The app also features a dark and light mode theme.
 ![Screenshot 2024-07-22 221627](https://github.com/user-attachments/assets/ad0c4324-e859-46de-9028-932e2afcf909)
